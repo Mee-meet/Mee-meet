@@ -44,6 +44,12 @@
 - 📖 Reading: I love reading books, especially sci-fi and fantasy novels.
 - 🎧 Music: I enjoy listening to music, particularly electronic and instrumental genres.
 
+<br>
+<p align='center'>
+<img src="./profile-gitblock.svg">
+</p>
+<hr>
+<br>
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mee-meet&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mee-meet" />
 </div>
