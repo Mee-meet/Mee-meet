@@ -5,7 +5,7 @@
 <h1 align="center">Hey there 👋, I'm Meet Mehta</h1>
 <h3 align="center">student at SBMP studying CSE</h3>
 
-<p align="left"> <a href="https://twitter.com/mehtameet115" target="blank"><img src="https://img.shields.io/twitter/follow/mehtameet115?logo=twitter&style=for-the-badge" alt="mehtameet115" /></a>  <a href="https://www.linkedin.com/in/meet-mehta-5a037b233/" target="_blank"><img src="https://img.shields.io/badge/-Meet%20Mehta-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-mehta-5a037b233/" alt="LinkedIn"></a>
+<p align="left"> <a href="https://www.linkedin.com/in/meet-mehta-5a037b233/" target="_blank"><img src="https://img.shields.io/badge/-Meet%20Mehta-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-mehta-5a037b233/" alt="LinkedIn"></a>
  </p>
 
 <h3 align="left">About Me:</h3>
