@@ -64,6 +64,12 @@
 
 <div align="center">
 
+
+
+<img src="https://raw.githubusercontent.com/Mee-meet/Mee-meet/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### Show some 💜 by starring some of the [repositories](https://github.com/Mee-meet?tab=repositories)!
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=creating+bits+of+tomorrow+today+!!+)](https://git.io/typing-svg)
 
