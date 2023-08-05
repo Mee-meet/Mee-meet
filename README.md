@@ -65,6 +65,7 @@
 <div align="center">
 
 ### Show some 💜 by starring some of the [repositories](https://github.com/Mee-meet?tab=repositories)!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=creating+bits+of+tomorrow+today+!!+)](https://git.io/typing-svg)
 
 ![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
 
