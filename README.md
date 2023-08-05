@@ -3,16 +3,16 @@
 </div>
 
 <h1 align="center">Hey there 👋, I'm Meet Mehta</h1>
-<h3 align="center">A student at SBMP studying CSE</h3>
+<h3 align="center">student at SBMP studying CSE</h3>
 
 <p align="left"> <a href="https://twitter.com/mehtameet115" target="blank"><img src="https://img.shields.io/twitter/follow/mehtameet115?logo=twitter&style=for-the-badge" alt="mehtameet115" /></a>  <a href="https://www.linkedin.com/in/meet-mehta-5a037b233/" target="_blank"><img src="https://img.shields.io/badge/-Meet%20Mehta-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meet-mehta-5a037b233/" alt="LinkedIn"></a>
  </p>
 
 <h3 align="left">About Me:</h3>
-<p align="left">Hi there! I am a student of CSE at SBMP. I am passionate about artificial intelligence and always eager to learn new technologies. In my free time, I enjoy reading books and playing sports.</p>
+<p align="left">Hi there! I am a student of CSE at SBMP. I am passionate about artificial intelligence and always eager to learn new technologies. In my free time, I enjoy reading books and explore new things on web.</p>
  <br></br>
 
-- 🌱 I’m currently learning **python , computer graphics , SQL , operating systems & 8086 mp**
+- 🌱 I’m currently learning **Embedded systems , database , networking , operating systems & linux**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-mee-meet.vercel.app/](https://my-portfolio-mee-meet.vercel.app/)
 
@@ -44,11 +44,7 @@
 - 📖 Reading: I love reading books, especially sci-fi and fantasy novels.
 - 🎧 Music: I enjoy listening to music, particularly electronic and instrumental genres.
 
-<br>
-<p align='center'>
-<img src="./profile-gitblock.svg">
-</p>
-<hr>
+
 <br>
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mee-meet&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mee-meet" />
